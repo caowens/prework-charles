@@ -2,9 +2,9 @@
 
 Submitted by: Charles Owens
 
-IOS101-Prework-Charles is an app that... [TODO] 
+IOS101-Prework-Charles is an app that changes your background color with a single button. 
 
-Time spent: 4 hours spent in total
+Time spent: 6 hours spent in total
 
 ## Required Features
 
@@ -20,7 +20,7 @@ Here's a walkthrough of implemented user stories:
 <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNieXV2am9za29obmJjcHJ5bmRjcGN3ZTA2MjZkdjYyY2doN2c5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fg7BnJJqrz4hPUms1I/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ... [Kap](https://getkap.co/) for macOS
+GIF created with [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
