@@ -17,10 +17,10 @@ The following button functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNieXV2am9za29obmJjcHJ5bmRjcGN3ZTA2MjZkdjYyY2doN2c5dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fg7BnJJqrz4hPUms1I/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ... [Kap](https://getkap.co/) for macOS
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -28,9 +28,25 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+### Favorite apps and features
+- [ ] My favorite 3 applications and 2-3 features that make them my favorite app.
+    - TikTok
+        - Simple, straight-to-the-point landing page
+        - Can organize collections of favorite tiktoks
+    - Instagram
+        - Can create private stories for close friends
+        - Can manage multiple accounts on one device
+    - Discord
+        - Can do add numerous permissions to channels for ultimate access customization
+        - Can add bots to do virtually whatever you want for your channels
+
+### An App I Would Like To Build
+
+I would like to build a journal app that uses sentiment analysis of the user's journal entries to give an emotional analysis to the user and other insights on their thoughts and feelings. Over time the app could identify patterns in the user's emotions and experiences and show graphs or visualizations depicting how the user's mood has changed over time. 
+
 ## Notes
 
-Describe any challenges encountered while building the app.
+One challenge I had making this app was figuring out what a storyboard file was and where to drag a UI element to create an action for adding logic. According to the instructions, clicking on `Assistant` after `Adjust Editor Options` would pull up the right pane, but it forgot to mention that you would then have to manually select the `ViewController` class from there. 
 
 ## License
 
